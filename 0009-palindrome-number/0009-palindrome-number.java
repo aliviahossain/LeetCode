@@ -1,18 +1,14 @@
 class Solution {
     public boolean isPalindrome(int x) {
-     if (x<0)
-    {
-        return false;
-    }   
-    String s=Integer.toString(x);
-    String rev = new StringBuilder(s).reverse().toString();
-    if (s.equals(rev))
-    {
-        return true;
-    }
-    else
-    {
-        return false;
-    }
+        int reverse = 0;
+        int duplicate = x;
+
+        while(duplicate > 0){
+            int last = duplicate % 10;
+            duplicate = duplicate / 10;
+
+            reverse = (reverse * 10) + last;
+        }
+        return reverse == x;
     }
 }
