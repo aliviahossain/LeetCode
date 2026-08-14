@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/aliviahossain/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aliviahossain/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/aliviahossain/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/aliviahossain/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aliviahossain/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aliviahossain/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Hash Table
@@ -24,14 +25,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aliviahossain/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aliviahossain/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aliviahossain/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aliviahossain/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aliviahossain/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aliviahossain/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -44,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aliviahossain/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aliviahossain/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Math
 | Problem Name | Difficulty |
