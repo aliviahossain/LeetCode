@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/aliviahossain/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/aliviahossain/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aliviahossain/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/aliviahossain/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aliviahossain/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
