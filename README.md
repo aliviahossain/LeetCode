@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/aliviahossain/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/aliviahossain/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/aliviahossain/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0283-move-zeroes](https://github.com/aliviahossain/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aliviahossain/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/aliviahossain/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aliviahossain/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aliviahossain/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/aliviahossain/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/aliviahossain/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/aliviahossain/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
