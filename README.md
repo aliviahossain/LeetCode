@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/aliviahossain/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/aliviahossain/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aliviahossain/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aliviahossain/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/aliviahossain/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/aliviahossain/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/aliviahossain/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aliviahossain/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,4 +123,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/aliviahossain/LeetCode/tree/main/0169-majority-element/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aliviahossain/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
