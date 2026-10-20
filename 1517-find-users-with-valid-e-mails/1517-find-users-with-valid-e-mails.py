@@ -1,8 +1,5 @@
 import pandas as pd
 
 def valid_emails(users: pd.DataFrame) -> pd.DataFrame:
-    pattern = r'^[A-Za-z][A-Za-z0-9_.-]*@leetcode\.com$'
-    return users.loc[
-        users["mail"].str.match(pattern),
-        ["user_id", "name", "mail"]
-    ]
+    mask = users['mail'].str.contains(r'^[a-zA-Z]{1}[a-zA-Z0-9._-]*@leetcode\.com$', regex=True)
+    return users[mask]
