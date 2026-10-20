@@ -143,4 +143,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1683-invalid-tweets](https://github.com/aliviahossain/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/aliviahossain/LeetCode/tree/main/1873-calculate-special-bonus/) | Easy |
 <!---LeetCode Topics End-->
