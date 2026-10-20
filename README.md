@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1667-fix-names-in-a-table](https://github.com/aliviahossain/LeetCode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/aliviahossain/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/aliviahossain/LeetCode/tree/main/1873-calculate-special-bonus/) | Easy |
 ## Enumeration
