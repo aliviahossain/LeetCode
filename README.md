@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aliviahossain/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/aliviahossain/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/aliviahossain/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/aliviahossain/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aliviahossain/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Divide and Conquer
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/aliviahossain/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aliviahossain/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/aliviahossain/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/aliviahossain/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/aliviahossain/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/aliviahossain/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aliviahossain/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aliviahossain/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/aliviahossain/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/aliviahossain/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/aliviahossain/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
