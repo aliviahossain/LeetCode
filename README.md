@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/aliviahossain/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/aliviahossain/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/aliviahossain/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0268-missing-number](https://github.com/aliviahossain/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/aliviahossain/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aliviahossain/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/aliviahossain/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/aliviahossain/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/aliviahossain/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/aliviahossain/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/aliviahossain/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aliviahossain/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/aliviahossain/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Divide and Conquer
@@ -49,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/aliviahossain/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/aliviahossain/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/aliviahossain/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0268-missing-number](https://github.com/aliviahossain/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aliviahossain/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/aliviahossain/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Heap (Priority Queue)
@@ -76,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/aliviahossain/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/aliviahossain/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/aliviahossain/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/aliviahossain/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -108,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/aliviahossain/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0268-missing-number](https://github.com/aliviahossain/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0493-reverse-pairs](https://github.com/aliviahossain/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aliviahossain/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Dynamic Programming
@@ -131,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/aliviahossain/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/aliviahossain/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
